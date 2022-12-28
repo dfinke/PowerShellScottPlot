@@ -1,14 +1,13 @@
 # PowerShell ScottPlot
 
+Uses Polyglot Interactive Notebooks to demonstrate the capabilities of ScottPlot via PowerShell.
+
 ## ScottPlot
 
 Is a free and [open-source plotting library](https://scottplot.net/) for .NET that makes it easy to interactively display large datasets.
 
 ![Alt text](media/ScottPlot.png)
 
-## This repository
-
-Uses Polyglot Interactive Notebooks to demonstrate the capabilities of ScottPlot.
 
 ## How to run
 
