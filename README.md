@@ -35,5 +35,8 @@ There are two helper PowerShell scripts.
 
 ## What's in the notebook
 
+Check out the rendered notebook and charts om [nbviewer](https://nbviewer.org/github/dfinke/PowerShellScottPlot/blob/master/ScottPlot.ipynb).
+
 ![](media/RadialChart.png)
+
 ![](media/SignalChart.png)
