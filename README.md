@@ -35,7 +35,10 @@ There are two helper PowerShell scripts.
 
 ## What's in the notebook
 
-Check out the rendered notebook and charts in [nbviewer](https://nbviewer.org/github/dfinke/PowerShellScottPlot/blob/master/ScottPlot.ipynb).
+### A simple way to share Jupyter Notebooks
+Check out the rendered notebook and charts here in [nbviewer](https://nbviewer.org/github/dfinke/PowerShellScottPlot/blob/master/ScottPlot.ipynb).
+
+### Here's some of what you can do
 
 ![](media/RadialChart.png)
 
