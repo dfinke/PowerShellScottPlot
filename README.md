@@ -35,7 +35,7 @@ There are two helper PowerShell scripts.
 
 ## What's in the notebook
 
-### A simple way to share Jupyter Notebooks
+### A simple way to share Polyglot Notebooks
 Check out the rendered notebook and charts here in [nbviewer](https://nbviewer.org/github/dfinke/PowerShellScottPlot/blob/master/ScottPlot.ipynb).
 
 ### Here's some of what you can do
