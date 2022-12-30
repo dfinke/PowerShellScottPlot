@@ -2,6 +2,12 @@
 
 Uses Polyglot Interactive Notebooks to demonstrate the capabilities of ScottPlot via PowerShell.
 
+## Check out the video
+
+This walks through creating data visualizations with PowerShell and ScottPlot in the interactive notebook rendering  visualizations inline.
+
+<a href="https://youtu.be/nL0JRukCU4k"><img src="https://img.youtube.com/vi/nL0JRukCU4k/0.jpg" width="200">
+
 ## ScottPlot
 
 Is a free and [open-source plotting library](https://scottplot.net/) for .NET that makes it easy to interactively display large datasets.
